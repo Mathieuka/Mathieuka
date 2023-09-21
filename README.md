@@ -3,11 +3,8 @@
 
 - ⚡  ️I’m principally working with Javascript/Typescript & React/Node
 - 👯 I’m looking to collaborate on opensource projects
-- 🤓 (OSS) I’m currently working on [NodeSecure](https://github.com/NodeSecure)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 [![Linkedin Badge](https://img.shields.io/badge/-Mathieu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-kahlaoui-0887a1158/)
 #### Top Technologies
 
