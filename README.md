@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mathieu</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- ⚡  ️I’m principally working with Javascript/Typescript & React/Node
-- 👯 I’m looking to collaborate on opensource projects
+- ⚡  ️I’m principally working with Javascript/Typescript & Node | React | AWS
+- Fastify contributor
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mathieu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-kahlaoui-0887a1158/)
