@@ -12,4 +12,5 @@
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![React Badge](https://img.shields.io/badge/-React-34b1eb?style=for-the-badge&labelColor=black&logo=react&logoColor=34b1eb)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![AWS Badge](https://img.shields.io/badge/AWS-Cloud-orange)](#)
 
