@@ -5,7 +5,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-Mathieu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-kahlaoui-0887a1158/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieu-kahlaoui-0887a1158/)
 #### Top Technologies
 
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B)](#)
